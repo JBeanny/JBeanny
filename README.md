@@ -11,5 +11,5 @@
 
 <h2>⌨️ My Tech Skills: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,java,c-sharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,electron,tailwind,ts,java,dotnet,aws,nodejs,express,firebase,kubernetes,docker,jenkins,terraform,kafka,rabbitmq,activemq,redis,nestjs,php,git,figma&theme=dark)](https://skillicons.dev)
 
