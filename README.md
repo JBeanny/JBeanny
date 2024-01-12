@@ -9,7 +9,7 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBeanny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>My Tech Skills: </h2>
+<h2>⌨️ My Tech Skills: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,nextjs,ts,java,c#,springboot,jenkins,kubernetes,docker,nestjs,nodejs,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,java,c-sharp)](https://skillicons.dev)
 
