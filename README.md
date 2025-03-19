@@ -1,15 +1,9 @@
-<h1>Hello, My name is Sotharoth Yim and JBeanny as my Pirate's world name 🤔</h1>
+<h1>Hello There ! 👋</h1>
 
-<h2>💡 My Quote: </h2>
-<h3>Tech is just like my sleep , never enough 😭</h3>
+I am Tharoth AKA beannydev - I am a Fullstack Developer and in coorperate company I work around with Microservices to integrate with core platforms & old services and to ensure that the APIs can handle millions of traffic per day. I usually work on personal projects and make content on social media known as "beannydev"
 
-<h2>🏆 My Stats: </h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBeanny&show_icons=true&theme=radical) 
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBeanny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-<h2>⌨️ My Tech Skills: </h2>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,electron,tailwind,ts,java,dotnet,aws,nodejs,express,firebase,kubernetes,docker,jenkins,terraform,kafka,rabbitmq,redis,nestjs,php,git,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,spring,js,react,nextjs,electron,tailwind,sass,ts,dotnet,aws,googlecloud,nodejs,express,npm,terraform,firebase,kubernetes,docker,jenkins,terraform,kafka,rabbitmq,redis,nestjs,mysql,postgresql,mongodb,vite&theme=dark)](https://skillicons.dev)
 
